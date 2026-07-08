@@ -9,6 +9,9 @@ post or teasers (beginnings) of all posts on the topic at once, choose a
 convenient tree view, immediately receive a message about adding a new post to
 the topic, etc. without leaving the tree window.
 
+TreeK Pro also includes configurable tools for improving the Kunena post
+interface.
+
 All actions for creating themes, adding and changing posts, etc. are carried out
 in the usual way in Kunena.
 
@@ -21,8 +24,8 @@ TreeK is published in two editions:
 - **TreeK Free**: a usable free edition with the topic tree, basic settings,
   post text teaser, text export, and parent-post navigation.
 - **TreeK Pro**: adds workflow and comfort features such as screenshot teaser,
-  flat view, comfort symbols, BBCode/HTML export, topic monitoring, and extended
-  forum-view controls.
+  flat view, comfort symbols, BBCode/HTML export of tree, topic monitoring, and
+  extended forum-view controls.
 
 The Free edition does not contain Pro implementation code.
 
@@ -41,7 +44,6 @@ https://treek.support
 - [Installation](docs/installation.md)
 - [Free vs Pro](docs/free-vs-pro.md)
 - [Changelog](docs/changelog.md)
-- [JED description draft](docs/jed-description-draft.md)
 
 ## Project Site
 

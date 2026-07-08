@@ -44,12 +44,6 @@ https://treek.support/index.php/forum/examples-of-trees-on-forums/1-example-of-t
 - Collapsed attachments.
 - Inline action buttons.
 
-## Security Boundary
-
-TreeK Free does not include Pro implementation code. Pro options may be shown in
-the Free user interface as locked preview items, but executable Pro features are
-not shipped in the Free package.
-
 
 
 
