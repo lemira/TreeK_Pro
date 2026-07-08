@@ -42,7 +42,7 @@ https://treek.support
 ## Documentation
 
 - [Installation](docs/installation.md)
-- [Free vs Pro](docs/free-vs-pro.md)
+- [TreeK Pro Features](docs/treek-pro-features.md)
 - [Changelog](docs/changelog.md)
 
 ## Project Site
