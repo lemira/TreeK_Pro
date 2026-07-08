@@ -40,15 +40,11 @@
 - Show post text as a tooltip.
 - Show the beginnings of all post texts under the tree rows with Text teaser.
 - Show the real visual appearance of the top parts of all posts under the tree rows with Screenshot teaser.
-
-Screenshot teaser makes it possible to:
-
-- see images and other non-text elements at the beginning of posts;
-- organize a full forum with indented post structure.
+  Screenshot teaser makes it possible to see images and other non-text elements at the beginning of posts and to organize a full forum with indented post structure.
 
 ### Highlighting Important Rows With Comfort Buttons
 
-- Highlight the row of the latest post created in the topic, even if it is located in the middle of the tree.
+- Highlight the row of the latest post created in the topic. It can be located anywhere in the tree.
 - Highlight active rows, meaning rows currently involved in the user's work.
 - Highlight all rows/posts by a specific author in the tree.
 - Highlight all child rows of a specific post, if they exist.
