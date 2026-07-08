@@ -1,0 +1,77 @@
+# TreeK Pro
+
+TreeK Pro adds a post tree to Kunena topics. This helps users see the structure of
+responses, switch between related posts, and navigate long discussions without
+losing the context of who replied to whom.
+
+The settings of the tree window allow the user to see the content of a single
+post or teasers (beginnings) of all posts on the topic at once, choose a
+convenient tree view, immediately receive a message about adding a new post to
+the topic, etc. without leaving the tree window.
+
+All actions for creating themes, adding and changing posts, etc. are carried out
+in the usual way in Kunena.
+
+TreeK Pro is built for Joomla and Kunena Forum.
+
+## Editions
+
+TreeK is published in two editions:
+
+- **TreeK Free**: a usable free edition with the topic tree, basic settings,
+  post text teaser, text export, and parent-post navigation.
+- **TreeK Pro**: adds workflow and comfort features such as screenshot teaser,
+  flat view, comfort symbols, BBCode/HTML export, topic monitoring, and extended
+  forum-view controls.
+
+The Free edition does not contain Pro implementation code.
+
+## Test And Request
+
+TreeK Pro can be fully tested on the project site, for example in this forum topic:
+
+https://treek.support/index.php/forum/examples-of-trees-on-forums/1-example-of-tree
+
+Details and TreeK Pro requests are available at:
+
+https://treek.support
+
+## Documentation
+
+- [Installation](docs/installation.md)
+- [Free vs Pro](docs/free-vs-pro.md)
+- [Changelog](docs/changelog.md)
+- [JED description draft](docs/jed-description-draft.md)
+
+## Project Site
+
+The public demo and support site is:
+
+https://treek.support
+
+It contains feature descriptions for full (Pro) TreeK Edition,
+screenshots/slides, forum examples, and a feedback forum.
+
+## Repository Scope
+
+This repository is the public information home for TreeK Pro.
+
+It intentionally does not contain:
+
+- TreeK source code;
+- TreeK Pro installation packages;
+- internal build scripts or private packaging assets.
+
+## Support
+
+If you like this project, you can make a donation via PayPal:
+
+[https://paypal.me/lemiratGiCh](https://paypal.me/lemiratGiCh)
+
+## License
+
+TreeK Pro is distributed under the GNU General Public License v3.0. See
+[LICENSE](LICENSE).
+
+
+
