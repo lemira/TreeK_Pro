@@ -10,7 +10,6 @@ officially announced, as extensive testing has not been performed on them. If
 necessary, please contact the developer via the website:
 
 https://treek.support
-- A working Kunena installation before installing TreeK Pro.
 
 ## Install TreeK Pro
 
