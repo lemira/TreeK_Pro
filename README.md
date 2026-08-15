@@ -39,6 +39,8 @@ Details and TreeK Pro requests are available at:
 
 https://treek.support
 
+TreeK Pro requests may include up to two website URLs. These URLs are used to manage paid downloads, update access, and support records.
+
 ## Documentation
 
 - [Installation](docs/installation.md)
@@ -74,6 +76,4 @@ If you like this project, you can make a donation via PayPal:
 
 TreeK Pro is distributed under the GNU General Public License v3.0. See
 [LICENSE](LICENSE).
-
-
 

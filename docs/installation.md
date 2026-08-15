@@ -11,6 +11,8 @@ necessary, please contact the developer via the website:
 
 https://treek.support
 
+TreeK Pro requests may include up to two website URLs. These URLs are used to manage paid downloads, update access, and support records.
+
 ## Install TreeK Pro
 
 1. Get the TreeK Pro package from the developer.
@@ -40,6 +42,4 @@ If the tree does not open:
 - confirm that Kunena is installed and working;
 - clear Joomla and browser cache;
 - check whether the current Kunena template is TreeK.
-
-
 
