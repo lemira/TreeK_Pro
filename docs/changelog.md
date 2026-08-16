@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.0.6
+
+- Added compatibility updates for Kunena 7.0.8.
+- Clarified that TreeK Pro should be installed again after updating Kunena.
+
 ## 2.0
 
 - Added TreeK Pro package build.

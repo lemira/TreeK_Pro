@@ -5,7 +5,7 @@ TreeK Pro is installed as a Joomla package.
 ## Requirements
 
 TreeK Pro has been tested and works on Joomla 6.0.x or 6.1.x and Kunena Forum
-7.0.4 and 7.0.5. Installing TreeK Pro on other builds likely works, but it is not
+7.0.4 through 7.0.8. Installing TreeK Pro on other builds likely works, but it is not
 officially announced, as extensive testing has not been performed on them. If
 necessary, please contact the developer via the website:
 
@@ -33,6 +33,9 @@ Use the settings button in the tree window to adjust the visible tree.
 
 Install the new package over the old one using Joomla extension installer. User
 settings are preserved.
+
+If Kunena is updated, install or update TreeK Pro again after the Kunena update.
+Kunena updates can replace files that TreeK patches during installation.
 
 ## Troubleshooting
 
