@@ -1,5 +1,25 @@
 # Changelog
 
+## 2.0.10
+
+Changes since 2.0.8.
+
+- Added unified support for Kunena 7.0 and 7.1 in one package, with automatic selection of integration files.
+- Incorporated Kunena security fixes for permissions, request tokens and escaped template output.
+- Added topic and category read-permission checks before TreeK AJAX requests return forum data.
+- Added support for Kunena 7.1 notification queues, pending attachments and editor integration.
+- Added a system plugin that monitors integration files and reminds administrators to reinstall TreeK after installing or updating Kunena.
+- Added an online compatibility catalog on treek.support.
+- Clear obsolete reinstall reminders after verified recovery; show update advice when a newer Kunena version is available.
+- Preserve versioned backups of original Kunena files across TreeK reinstalls and verify file hashes before restoration.
+- Restored optional AJAX diagnostic logging and added troubleshooting guidance to tree refresh error messages.
+- Updated installation and compatibility documentation.
+
+## 2.0.8
+
+- Hide TreeK buttons from guests when the TreeK AJAX plugin access level is set to Registered.
+- Documented TreeK plugin access level behavior.
+
 ## 2.0.7
 
 - Fixed TreeK AJAX URL generation when Joomla is installed in a subdirectory.
