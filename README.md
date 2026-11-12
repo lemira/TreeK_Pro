@@ -17,6 +17,9 @@ in the usual way in Kunena.
 
 TreeK Pro is built for Joomla and Kunena Forum.
 
+TreeK Pro does not use analytics or send forum posts, user accounts, or browsing activity to TreeK's servers. 
+Buyers provide the URLs of the sites they want to license. When Joomla downloads a Pro update, it sends the site's URL and download key to treek.support to verify access to the package.
+
 ## Editions
 
 TreeK is published in two editions:
