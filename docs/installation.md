@@ -4,16 +4,13 @@ TreeK Pro is installed as a Joomla package.
 
 ## Requirements
 
-TreeK Pro has been tested and works on Joomla 6.0.x_ 6-1x or 6.2 and Kunena Forum
-7.0.4 through 7.0.11, 7.1. Installing TreeK Pro on other builds likely works, but it is not
-officially announced, as extensive testing has not been performed on them. If
-necessary, please contact the developer via the website:
+TreeK Free and Pro 3.1.0 support Kunena 7.0.11, 7.1.0, and 7.1.1 on Joomla 5.4, 6.0, 6.1, and 6.2. On the Joomla 5.4 branch, TreeK requires Joomla 5.4.7 or later with Kunena 7.0.11, and Joomla 5.4.10 or later with Kunena 7.1.0 or 7.1.1.
 
-https://treek.support
-
-TreeK Pro requests may include up to two website URLs. These URLs are used to manage paid downloads, update access, and support records.
+Kunena 7.1.0 and 7.1.1 require PHP 8.3 or later. An internet connection is required during TreeK installation so the installer can download the matching template files.
 
 ## Install TreeK Pro
+
+TreeK Pro requests may include up to two website URLs. These URLs are used to manage paid downloads, update access, and support records.
 
 1. Get the TreeK Pro package from the developer.
 2. In Joomla Administrator, open **System -> Install -> Extensions**.
@@ -27,7 +24,7 @@ In Kunena's **Recent Topics** tab, the **Replies** number for topics with respon
 
 If you have already entered a topic, you can access the post tree by clicking the tree icon located in the header of each post.
 
-Use the settings button in the tree window to adjust the visible tree.
+The settings window closes after 15 seconds of inactivity by default. Reopen it with **⚙ (Settings)**.
 
 ## Updating
 
