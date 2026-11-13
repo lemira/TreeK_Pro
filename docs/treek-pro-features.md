@@ -15,9 +15,15 @@
 - Return from the tree to the Kunena topic by closing the tree window.
 - Jump directly from a tree row to the corresponding post in the Kunena topic.
 
+### Replying And Editing In The Tree
+
+- Click **✚** in the post’s row to open the compact form for plain-text replies.
+- Click **✎** to edit a plain-text post in the tree. Posts with formatting, a link, or an attachment open in the full forum editor.
+- The **Subject** field follows the TreeK Pro title settings for replies, including inheritance and suffixes.
+
 ### Tree Window Settings And Options
 
-- Use the tree settings window.
+- The settings window closes after 15 seconds of inactivity by default. Reopen it with **⚙ (Settings)**.
 - Move the settings window by dragging it.
 - Use different grid styles to emphasize the tree structure.
 - Use vertical and horizontal scrolling for large trees.
@@ -27,7 +33,7 @@
 - Save and restore settings.
 - Export the tree as BBCode, HTML, or text.
 - Apply tree transformations immediately when a setting is changed.
-- Show a topic monitoring notice when a new post is added. This is a unique option that is absent from existing forum programs.
+- Show a topic monitoring notice when a new post is added.
 
 ### Tree Row Display Settings
 
