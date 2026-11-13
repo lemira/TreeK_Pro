@@ -12,8 +12,7 @@ the topic, etc. without leaving the tree window.
 TreeK Pro also includes configurable tools for improving the Kunena post
 interface.
 
-All actions for creating themes, adding and changing posts, etc. are carried out
-in the usual way in Kunena.
+TreeK Pro 3.1.0 lets you reply and edit your own plain-text posts in the discussion tree. The compact form includes a **Subject** field and follows your title settings, including inheritance and suffixes. Use **F (Open in forum)** to continue in the full Kunena editor.
 
 TreeK Pro is built for Joomla and Kunena Forum.
 
