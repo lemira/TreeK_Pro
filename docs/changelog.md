@@ -1,5 +1,13 @@
 # Changelog
 
+## 3.1.0
+
+- Reply to a specific post and edit your own plain-text posts directly in the tree.
+- Use **F (Open in forum)** for formatting, links, or attachments.
+- The compact form includes a **Subject** field and uses the configured title inheritance and suffix rules.
+- The settings window closes after 15 seconds of inactivity by default. Reopen it with **⚙ (Settings)**.
+- Supports Kunena 7.0.11, 7.1.0, and 7.1.1.
+
 ## 2.0.10
 
 Changes since 2.0.8.
